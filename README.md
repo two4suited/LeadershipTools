@@ -15,5 +15,3 @@
 * [Ester Derby](https://www.estherderby.com/)
 * [Management 3.0](https://management30.com/)
 
-## Seminars
-* 
