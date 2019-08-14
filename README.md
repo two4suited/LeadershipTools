@@ -10,3 +10,10 @@
 * [Manager Tools](https://www.manager-tools.com/)
 * [Programming Leadership](https://marcusblankenship.com/category/podcast/)
 * [Modern CTO](https://moderncto.io/)
+
+## Sites
+* [Ester Derby](https://www.estherderby.com/)
+* [Management 3.0](https://management30.com/)
+
+## Seminars
+* 
